@@ -4,7 +4,7 @@
   "description": "nubra common",
   "author": "chensir <1084983891@qq.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -24,6 +24,5 @@
   "dependencies": {
     "short-uuid": "^4.2.0",
     "typescript": "^4.5.4"
-  },
-  "gitHead": "8972c25d0ce50322611eee3a08d8ae48ec94a99c"
+  }
 }
