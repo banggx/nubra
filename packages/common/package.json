@@ -1,0 +1,27 @@
+{
+  "name": "@nubra/common",
+  "version": "0.0.0",
+  "description": "nubra common",
+  "author": "chensir <1084983891@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "directories": {
+    "lib": "dist",
+    "test": "__tests__"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npm.taobao.org"
+  },
+  "dependencies": {
+    "short-uuid": "^4.2.0",
+    "typescript": "^4.5.4"
+  }
+}

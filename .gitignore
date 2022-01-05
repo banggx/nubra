@@ -1,0 +1,5 @@
+.DS_Store
+node_modules
+packages/**/dist
+packages/**/__tests__
+packages/**/node_modules
