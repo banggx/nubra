@@ -18,11 +18,11 @@
     "test": "__tests__"
   },
   "publishConfig": {
-    "registry": "http://registry.npm.taobao.org",
     "access": "public"
   },
   "dependencies": {
     "short-uuid": "^4.2.0",
     "typescript": "^4.5.4"
-  }
+  },
+  "gitHead": "a3af362ef943311c122cbe0a2df189c209c0b4ac"
 }
