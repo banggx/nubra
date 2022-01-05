@@ -24,5 +24,6 @@
   "dependencies": {
     "short-uuid": "^4.2.0",
     "typescript": "^4.5.4"
-  }
+  },
+  "gitHead": "8972c25d0ce50322611eee3a08d8ae48ec94a99c"
 }
