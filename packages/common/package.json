@@ -1,5 +1,5 @@
 {
-  "name": "@nubra/common",
+  "name": "nubra-common",
   "version": "1.0.3",
   "description": "nubra common",
   "author": "chensir <1084983891@qq.com>",
@@ -24,5 +24,5 @@
     "short-uuid": "^4.2.0",
     "typescript": "^4.5.4"
   },
-  "gitHead": "a3af362ef943311c122cbe0a2df189c209c0b4ac"
+  "gitHead": "c498123d7b8547608c5ff71eb993900d920becda"
 }
