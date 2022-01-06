@@ -1,6 +1,6 @@
 {
   "name": "nubra-vue-collector",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "nubra vue collector",
   "author": "chensir <1084983891@qq.com>",
   "homepage": "",
@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@vue/runtime-core": "^3.2.26",
-    "nubra-common": "^1.0.4",
+    "nubra-common": "^1.0.5",
     "vue": "2.x",
     "vue-router": "^3.5.3"
   }
