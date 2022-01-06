@@ -1,0 +1,29 @@
+{
+  "name": "nubra-vue-collector",
+  "version": "1.0.4",
+  "description": "nubra vue collector",
+  "author": "chensir <1084983891@qq.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "directories": {
+    "lib": "dist",
+    "test": "__tests__"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@vue/runtime-core": "^3.2.26",
+    "nubra-common": "^1.0.4",
+    "vue": "2.x",
+    "vue-router": "^3.5.3"
+  }
+}

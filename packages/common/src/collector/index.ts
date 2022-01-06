@@ -4,3 +4,4 @@ export * from "./behaviorCatcherMap";
 export * from "./webBehaviorCollector";
 export * from "./webErrorCollector";
 export * from "./webAjaxCollector";
+export * from "./utils";

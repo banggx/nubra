@@ -174,7 +174,7 @@ export class WebBehaviorCollector extends Collector<BaseReporter> {
   }
 
   /** 删除expose root */
-  deleteExposeRootMap(el: HTMLElement) {
+  deleteExposeRoot(el: HTMLElement) {
     this.exposeRootCatchMap.disRegister(el);
   }
 
